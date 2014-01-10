@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sample Glass</string>
+    <string name="glass_voice_trigger">do a shit</string>
+    <string name="main_card_text">Fooled you</string>
+    <string name="main_card_footnote_text">Sample made by W.Elsinga</string>
+    
+    
+    
+</resources>
