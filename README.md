@@ -1,4 +1,4 @@
-sample_glass
+Overview
 ============
 
 This is my first "glassware" app. It's a simple app, try it on your Glass, speak:
